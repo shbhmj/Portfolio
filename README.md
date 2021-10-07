@@ -1,5 +1,7 @@
 # Portfolio
 
+![piechart-dashboard](https://user-images.githubusercontent.com/35397465/136394289-e0c98940-aeee-4f7b-96bc-087ec38259fd.PNG)
+![dashboard](https://user-images.githubusercontent.com/35397465/136394302-ecac6be2-54c1-42ad-a83e-76040926e439.PNG)
 ![Login Role Check](https://user-images.githubusercontent.com/35397465/132224193-a98560ba-047e-492c-8220-3c56556bedc9.png)
 ![Table with Static Data](https://user-images.githubusercontent.com/35397465/132224206-8fd044fb-61c1-4095-816f-a35f2cb3696c.jpeg)
 ![Table with Pagination and Filters](https://user-images.githubusercontent.com/35397465/132224209-1f94a94c-a76e-4c09-8f59-bbba8d9865cd.jpeg)
